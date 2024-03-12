@@ -21,6 +21,10 @@ the function has to iterate through the entire matrix, meaning all of the rows t
 The runtime depends on the number of vertices because the function has to go through each vertex and check if it has an edge to another vertex or 
 loop to itself. 
 
+Sources: 
+1. https://www.youtube.com/watch?v=O7BtCGkkPBY
+2. https://www.youtube.com/watch?v=Gqwt45cHyoQ
+
 ## Bonus
 
 Implement a function to convert an adjacency list to an adjacency matrix and
