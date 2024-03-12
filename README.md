@@ -16,6 +16,11 @@ depend on the number of vertices, the number of edges, or both?
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. Add your answer to this markdown file.
 
+Answer: The runtime complexity for the function I implemented would be $O$(v^2). This is becuase 
+the function has to iterate through the entire matrix, meaning all of the rows times all of the columns in the matrix. 
+The runtime depends on the number of vertices because the function has to go through each vertex and check if it has an edge to another vertex or 
+loop to itself. 
+
 ## Bonus
 
 Implement a function to convert an adjacency list to an adjacency matrix and
